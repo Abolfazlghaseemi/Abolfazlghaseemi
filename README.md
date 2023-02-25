@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1000w" width="350"/>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" width="350"/>
 <!-- ![corona-runner](https://user-images.githubusercontent.com/69871290/124500350-d87fee00-ddd4-11eb-910e-fa8ee941d8c0.gif) -->
 
 

@@ -2,7 +2,7 @@
 <!-- ![corona-runner](https://user-images.githubusercontent.com/69871290/124500350-d87fee00-ddd4-11eb-910e-fa8ee941d8c0.gif) -->
 
 
-### Like all WebDevelopers I work with:
+### Like all Android Developers I work with:
 <div align="center">  
 <a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikiversity/de/b/b8/Java_cup.svg" alt="Java" height="25" /></a> 
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin" height="25" /></a>  

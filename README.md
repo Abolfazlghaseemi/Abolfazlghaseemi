@@ -31,3 +31,4 @@
 ## SPOTIFY
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&count=2&width=850)
+

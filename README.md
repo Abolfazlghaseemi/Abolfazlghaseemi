@@ -23,10 +23,9 @@
 </p>
 
 ## Most Used Languages
-
-## Most Used Languages
-## Most Used Languages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl.ghaseemi&langs_count=3&hide=html,css,php,python,javascript&custom_title=Most%20Used%20Languages&layout=compact" alt="Most Used Languages">
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl.ghaseemi&langs_count=3&hide=html,css,php,python,javascript&custom_title=Most%20Used%20Languages&layout=compact" alt="Most Used Languages">
+</p>
 ## SPOTIFY
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&count=2&width=850)

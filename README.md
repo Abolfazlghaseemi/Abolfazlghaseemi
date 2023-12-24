@@ -9,7 +9,7 @@
 
 ## Activity
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abolfazl.ghaseemi&theme=xcode&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abolfazl.ghaseemi&theme=xcode&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </p>
 
 ## GitHub Stats
@@ -31,4 +31,3 @@
 ## SPOTIFY
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&count=2&width=850)
-

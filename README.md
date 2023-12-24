@@ -9,7 +9,7 @@
 
 ## Activity
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abolfazlghaseemii&theme=xcode&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abolfazlghaseemi&theme=xcode&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </p>
 
 ## GitHub Stats
@@ -25,7 +25,7 @@
 ## Most Used Languages
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl.ghaseemi&langs_count=8&theme=radical&hide_border=true&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazlghaseemi&langs_count=8&theme=radical&hide_border=true&hide_title=true">
 </p>
 
 ## SPOTIFY

@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,kotlin,flutter" /> </a>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,flutter" /> </a>
 </p>
 
 ## Activity

@@ -9,7 +9,7 @@
 
 ## Activity
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abolfazl.ghaseemi&theme=xcode&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abolfazlghaseemii&theme=xcode&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </p>
 
 ## GitHub Stats
@@ -19,7 +19,7 @@
 </p> -->
 
 <p align="center"> 
-    <img src="https://streak-stats.demolab.com?user=Abolfazl.ghaseemi&theme=elegant">
+    <img src="https://streak-stats.demolab.com?user=Abolfazlghaseemi&theme=elegant">
 </p>
 
 ## Most Used Languages

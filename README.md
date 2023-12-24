@@ -23,9 +23,8 @@
 </p>
 
 ## Most Used Languages
-<p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazlghaseemi&langs_count=2&hide=html,css,php,python,javascript&custom_title=Most%20Used%20Languages&layout=compact" alt="Java, Kotlin, and Flutter usage in GitHub Repositories">
-</p>
+<p align="Center"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliesmaeili2&langs_count=8&theme=radical&hide_border=true&hide_title=true">
 ## SPOTIFY
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mqbixjrsgovxkl26e7whevmbou&count=2&width=850)
